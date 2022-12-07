@@ -1,6 +1,6 @@
 BEFORE USING
 1. Install requirements.txt
-2. Dowload google credential_json file and save into key\ with name is credential.json
+2. Download google credential_json file and save into key\ with name is credential.json
 
 USING
 
